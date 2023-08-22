@@ -1,38 +1,93 @@
 ### Hi there 👋
 
-<!--
-**xiyuxiaol/xiyuxiaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 个人信息
 
-Here are some ideas to get you started:
+- 性别：男
+- 年龄：20
+- 出生日期：2003－03－27
+- 联系电话：19904443343
+- 籍贯：中国
+- 电子邮件：xiyuxiao1314@gmail.com
+- QQ/微信：1252748257
+- 期望城市：深圳/广州/长春
+- 期望岗位：Java后端工程师
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 简介
+## 教育背景
 
-大家好，我是一名学生，目前正在学习中。我热爱编程，尤其是Java语言。
+- 学位：本科
+- 学校：长春电子科技学院
+- 专业：智能制造工程
+- 毕业时间：2025
 
-## 技能
+## 在校经历
 
-- Java编程
-- 数据结构与算法
-- Git版本控制
-- 前端开发基础
+- 院学生会学习部副部长
+- 校计算机协会副会长
+
+## 技术栈
+
+- 熟练掌握Java，了解Java,JVM。
+
+- 熟练掌握IntelliJ Idea开发工具
+
+- 了解HTML，CSS，JavaScript
+
+- 掌握关系型数据库：MySQL，非关系型数据库：Redis，ElasticSearch
+
+- 掌握Java构建工具Maven与版本控制工具git
+
+- 了解Java常用的框架：
+
+  SpringBoot（2/3）/vue（2/3）/SpringCloud/SSM/SpringSecurity
+
+  > 目前还在继续学习的框架有vue3，springboot3，mybatis－plus，springcloud
+
+- 了解并掌握AI产品
+
+ChatGPT/Claude/NewBing/Midjourney/StableDiffusion
+
+## 证书与荣誉
+
+- 大二下学期获得学校单项奖学金
+
+- 大二下学期荣获华为gauss证书
 
 ## 项目经历
 
-- 项目1：使用Java实现一个简单的图书管理系统
-- 项目2：使用Java编写一个多线程爬虫程序
-- 项目3：参与开发一个基于Spring框架的Web应用
+### 1.汐语商城
 
-## 学习计划
+- 项目描述：
 
-- 深入学习Java相关知识
-- 提升算法与数据结构能力
-- 学习前端开发框架
+大一练习项目，项目由Java编写，开发工具为Idea，商城后端主要使用了SpringBoot2.7，SpringSecurity，SSM，前端主要使用vue2，数据库主要使用MySQL与Redis。使用Maven，Git 管理代码。
+
+- 功能描述：
+
+用户：邮箱注册，登陆，购买商品（购买后可评论），对商品点赞
+
+管理员：登陆，添加商品，修改商品信息，禁言功能
+
+商品有排名（如爆款），有独立的UUID，可以生成订单（不能支付）
+
+- 个人收获：
+
+积累了一定的项目经验，加强了从后端→数据库→前端的能力与认识。
+
+通过前后端分离，跨域问题也锻炼了SpringSecurity的能力
+
+### 2.大学生综合平台
+
+- 项目描述：
+
+大二练习项目，项目整体架构远大于第一个项目，新增论坛模块，大学生书籍（试卷）分享模块，更改商城架构，使商品由B2C变为C2C（商城只可以管理员发表商品，但综合平台允许任何人发表商品）前端使用了Vue3，后端使用 SpringBoot3.0
+
+- 功能描述：
+
+用户：注册登陆/在论坛模块发表/阅读文章（可以点赞与拉黑）/发表校园二手商品/发表常用书籍/与用户私信
+
+## 个人评价
+
+- 文档编写能力较强，平时很喜欢用Markdown去记录笔记
+- 对待工作的态度认真
+- 能承受的工作压力以及对待困难时较沉稳
+- 对技术的追求、喜欢高质量的代码
+- 学习能力优秀，大一下学期就完成了SpringBoot的相关学习
